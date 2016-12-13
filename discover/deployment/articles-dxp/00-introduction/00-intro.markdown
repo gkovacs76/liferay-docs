@@ -1,7 +1,7 @@
 # @product@ Deployment
 
 @product@ is one of the most flexible applications on the market today with
-respect to database and application server support. Liferay supports a wide
+respect to database and application server support. @product@ supports a wide
 variety of databases and application servers, freeing you to use the ones you
 think are best. @product@ also scales very well. You can install @product@ on a
 shared hosting account, on a multi-node cluster running a commercial application
